@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @NicolasFromBelgium
 - 👀 I’m interested in technology and automated systems
-- 🌱 I’m currently learning IoT, API
-- 💞️ I’m looking to collaborate on Civil rights app, allow more democracy
+- 🌱 I’m currently doing IoT, APIs, ...
+- 💞️ I’m looking to collaborate on Energy and Industrial projects
 - 📫 How to reach me info@ubicity.be
-- 😄 Pronouns: Him
 - ⚡ Fun fact: I have been hunted by a cheetah and I still have some scars!
 
 <!---
